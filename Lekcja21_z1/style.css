@@ -1,0 +1,24 @@
+li
+{
+    border: 2px solid blue;
+    float: left;
+    background-color: black;
+    padding: 20px;
+    margin: 5px;
+    font-size: larger;
+}
+
+a:link
+{
+    color: yellow;
+}
+
+a:visited
+{
+    color: darkturquoise;
+}
+
+a:active
+{
+    color: chartreuse;
+}
